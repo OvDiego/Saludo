@@ -10,6 +10,7 @@ namespace SaludoFormG2_2024_1
         private TextBox txtbNombre;
         private Button btnAceptar;
         private Button btnLimpiar;
+        
 
 
 
@@ -36,8 +37,8 @@ namespace SaludoFormG2_2024_1
             btnAceptar.Click += new EventHandler(btnAceptar_Click);
             //botonLimpiar
             btnLimpiar = new Button();
-            btnLimpiar.Text = "ACEPTAR";
-            btnLimpiar.Location = new Point(400, 400);
+            btnLimpiar.Text = "LIMPIAR";
+            btnLimpiar.Location = new Point(150, 00);
 
 
 

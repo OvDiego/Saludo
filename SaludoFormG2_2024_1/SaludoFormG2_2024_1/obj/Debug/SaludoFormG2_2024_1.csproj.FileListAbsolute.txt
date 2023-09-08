@@ -5,3 +5,11 @@ C:\Users\chiva\OneDrive\Imágenes\Documentos\TECNICAS DE PROGRAM\SaludoFormG2_20
 C:\Users\chiva\OneDrive\Imágenes\Documentos\TECNICAS DE PROGRAM\SaludoFormG2_2024_1\SaludoFormG2_2024_1\obj\Debug\SaludoFormG2_2024_1.csproj.CoreCompileInputs.cache
 C:\Users\chiva\OneDrive\Imágenes\Documentos\TECNICAS DE PROGRAM\SaludoFormG2_2024_1\SaludoFormG2_2024_1\obj\Debug\SaludoFormG2_2024_1.exe
 C:\Users\chiva\OneDrive\Imágenes\Documentos\TECNICAS DE PROGRAM\SaludoFormG2_2024_1\SaludoFormG2_2024_1\obj\Debug\SaludoFormG2_2024_1.pdb
+C:\Users\Alumno\Dieog\Saludo\SaludoFormG2_2024_1\SaludoFormG2_2024_1\bin\Debug\SaludoFormG2_2024_1.exe.config
+C:\Users\Alumno\Dieog\Saludo\SaludoFormG2_2024_1\SaludoFormG2_2024_1\bin\Debug\SaludoFormG2_2024_1.exe
+C:\Users\Alumno\Dieog\Saludo\SaludoFormG2_2024_1\SaludoFormG2_2024_1\bin\Debug\SaludoFormG2_2024_1.pdb
+C:\Users\Alumno\Dieog\Saludo\SaludoFormG2_2024_1\SaludoFormG2_2024_1\obj\Debug\SaludoFormG2_2024_1.csproj.AssemblyReference.cache
+C:\Users\Alumno\Dieog\Saludo\SaludoFormG2_2024_1\SaludoFormG2_2024_1\obj\Debug\SaludoFormG2_2024_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\Dieog\Saludo\SaludoFormG2_2024_1\SaludoFormG2_2024_1\obj\Debug\SaludoFormG2_2024_1.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Dieog\Saludo\SaludoFormG2_2024_1\SaludoFormG2_2024_1\obj\Debug\SaludoFormG2_2024_1.exe
+C:\Users\Alumno\Dieog\Saludo\SaludoFormG2_2024_1\SaludoFormG2_2024_1\obj\Debug\SaludoFormG2_2024_1.pdb
